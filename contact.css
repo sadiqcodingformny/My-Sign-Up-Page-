@@ -1,0 +1,95 @@
+
+body {
+    margin: 0px 630px 0px;
+}
+
+#bg-img {
+    box-sizing: border-box;
+    width: 250px;
+    height: 250px;
+    margin-left: 0px;
+    margin-top: 2%;
+    
+}
+
+a {
+    color: #f57c82;
+    text-decoration: none;
+}  
+
+#email, #newpassword, #password, #email2 {
+    width:250;
+    height: 49px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+
+#submit {
+    width: 150px;
+    height: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+}
+
+#submitTerms, #submitPrivacy { 
+    font-family: Poppins, sans-serif;
+    text-decoration: underline;
+}
+
+#submittext {
+    color: #8f8a95;
+     font-family: Poppins, sans-serif;
+     font-size: 18px;
+}
+
+#emailVerification {
+    color: #8f8a95;
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+    column-count: 1;
+    margin-left: 0%;
+}
+
+#submit:hover {
+
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    
+
+}
+
+#nextSubmit2 {
+    cursor: pointer;
+    color: #8f8a95;
+}
+
+
+#newPasswordText, #passwordText, #emailText2, #emailText {
+    color:#8f8a95;
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+}
+
+#safetyTip {
+    color: #ff0000;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+#registerTextWelcome {
+    color: wheat;
+}
+
+div {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 2px 14px;
+}
+
+
+
+
+
+
